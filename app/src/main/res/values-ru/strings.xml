@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="ButtonText">Загрузить текущие данные</string>
+    <string name="BottomText">Текущая погода в Одессе</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="buttonChooseCity">Город</string>
+    <string name="city">Город</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="lang">ru</string>
+    <string name="windN">Северный</string>
+    <string name="windNE">Северо-восточный</string>
+    <string name="windE">Восточный</string>
+    <string name="windSE">Юго-восточный</string>
+    <string name="windS">Южный</string>
+    <string name="windSW">Юго-западный</string>
+    <string name="windW">Западный</string>
+    <string name="windNW">Северо-западный</string>
+</resources>

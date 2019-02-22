@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="ButtonText">Load data</string>
+    <string name="BottomText">Current weather in Odessa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonChooseCity" >Choose city</string>
+    <string name="city">City</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="lang">en</string>
+    <string name="windN">North</string>
+    <string name="windNE">North-East</string>
+    <string name="windE">East</string>
+    <string name="windSE">South-East</string>
+    <string name="windS">South</string>
+    <string name="windSW">South-West</string>
+    <string name="windW">West</string>
+    <string name="windNW">North-West</string>
+</resources>
